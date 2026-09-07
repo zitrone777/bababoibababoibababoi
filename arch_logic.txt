@@ -1,0 +1,18 @@
+﻿?.wavefront_size ?.workgroup_processor_mode?amdhsa.target? amdgcn-amd-amdhsa--gfx11-generic?amdhsa.version?
+?.wavefront_size ?.workgroup_processor_mode?amdhsa.target?"amdgcn-amd-amdhsa--gfx10-3-generic?amdhsa.version?
+?.wavefront_size ?.workgroup_processor_mode?amdhsa.target?amdgcn-amd-amdhsa--gfx1100?amdhsa.version?
+?.wavefront_size ?.workgroup_processor_mode?amdhsa.target?amdgcn-amd-amdhsa--gfx1101?amdhsa.version?
+?.wavefront_size ?.workgroup_processor_mode?amdhsa.target?amdgcn-amd-amdhsa--gfx1102?amdhsa.version?
+?.wavefront_size ?.workgroup_processor_mode?amdhsa.target?amdgcn-amd-amdhsa--gfx1200?amdhsa.version?
+?.wavefront_size ?.workgroup_processor_mode?amdhsa.target?amdgcn-amd-amdhsa--gfx1201?amdhsa.version?
+DE?H?gfx1200
+env: UNSUPPORTED GPU ARCHITECTURE %s: this build contains code for RDNA4 (gfx12) and RDNA3 (gfx11) only; the pass stays off
+gfx1201,gfx1200,gfx1100,gfx1101,gfx1102,gfx11-generic,gfx10-3-generic,gfx9-generic
+H??@??H?gfx1200
+hipv4-amdgcn-amd-amdhsa--gfx10-3-generic
+hipv4-amdgcn-amd-amdhsa--gfx1100
+hipv4-amdgcn-amd-amdhsa--gfx1101
+hipv4-amdgcn-amd-amdhsa--gfx1102
+hipv4-amdgcn-amd-amdhsa--gfx11-generic
+hipv4-amdgcn-amd-amdhsa--gfx1200
+hipv4-amdgcn-amd-amdhsa--gfx1201
